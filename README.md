@@ -30,9 +30,9 @@ Python-3 Basics
 * else: statement3
 
 # Loops
-## for
-## while: while expr: statements
-### continue: continue
-### break: break
-### else: else
+* for
+* while: while expr: statements
+* continue: continue
+* break: break
+* else: else
 
