@@ -42,3 +42,5 @@ Python-3 Basics
 * global and local variables
 
 # Arrays
+
+# Classes & OOP
