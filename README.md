@@ -37,3 +37,6 @@ Python-3 Basics
 * else: else
 
 # Functions
+* mapping
+* default parameters
+* global and local variables
