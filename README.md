@@ -36,3 +36,4 @@ Python-3 Basics
 * break: break
 * else: else
 
+# Functions
