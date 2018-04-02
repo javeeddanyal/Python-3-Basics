@@ -40,3 +40,5 @@ Python-3 Basics
 * mapping
 * default parameters
 * global and local variables
+
+# Arrays
