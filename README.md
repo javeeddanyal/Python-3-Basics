@@ -43,4 +43,6 @@ Python-3 Basics
 
 # Arrays
 
+# File I/O
+
 # Classes & OOP
