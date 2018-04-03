@@ -55,3 +55,4 @@ Python-3 Basics
 tuples
 generators
 inheritance
+multiple inheritance
