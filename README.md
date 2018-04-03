@@ -50,3 +50,5 @@ Python-3 Basics
 # Classes & OOP
 
 # Word occurence
+
+# Variables
