@@ -51,4 +51,4 @@ Python-3 Basics
 
 # Word occurence
 
-# Variables Numbers
+# Variables Numbers strings
