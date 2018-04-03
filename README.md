@@ -54,3 +54,4 @@ Python-3 Basics
 # Variables Numbers strings
 tuples
 generators
+inheritance
