@@ -43,7 +43,7 @@ Python-3 Basic
 
 # Lists
 
-# Array
+# Arrays
 
 # File I/O
 
