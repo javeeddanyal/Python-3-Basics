@@ -49,9 +49,9 @@ Python-3 Basics
 
 # Classes & OOP
 
-# Word occurence
+# Word occurences
 
-# Variables Number strings
+# Variables Numbers strings
 tuples
 generators
 inheritance
