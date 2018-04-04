@@ -51,7 +51,7 @@ Python-3 Basics
 
 # Word occurence
 
-# Variables Numbers strings
+# Variables Number strings
 tuples
 generators
 inheritance
