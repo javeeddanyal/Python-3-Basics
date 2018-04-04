@@ -41,7 +41,7 @@ Python-3 Basics
 * default parameters
 * global and local variables
 
-# List
+# Lists
 
 # Arrays
 
