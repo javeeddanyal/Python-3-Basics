@@ -4,7 +4,7 @@ Repository for understanding basic syntax of Python-3 language.
 
 ## What this notebook shows
 
-Python-3 Basics
+Python-3 Basic
 
 ### Variables and Datatypes
 
