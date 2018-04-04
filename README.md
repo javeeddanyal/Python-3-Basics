@@ -29,7 +29,7 @@ Python-3 Basics
 * elif expr: statement2
 * else: statement3
 
-# Loops
+# Loop
 * for
 * while: while expr: statements
 * continue: continue
