@@ -63,3 +63,6 @@ caller
 area
 addresses
 operands and expressions
+
+# Statistics
+
