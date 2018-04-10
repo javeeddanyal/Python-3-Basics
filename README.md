@@ -69,3 +69,4 @@ operands and expressions
 Mean
 Median
 Standard Deviation
+Variance
