@@ -66,3 +66,4 @@ operands and expressions
 
 # Statistics
 
+Mean
