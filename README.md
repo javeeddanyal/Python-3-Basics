@@ -67,3 +67,4 @@ operands and expressions
 # Statistics
 
 Mean
+Median
