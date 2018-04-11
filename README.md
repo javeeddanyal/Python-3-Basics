@@ -48,6 +48,7 @@ Python-3 Basic
 # File I/O
 
 # Classes & OOP
+* Class: Calculator & Human Example
 
 # Word occurences
 
