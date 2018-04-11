@@ -50,7 +50,9 @@ Python-3 Basic
 # Classes & OOP
 * Class: Calculator & Human Example
 ## Inheritance & Multiple-Inheritance
-* 
+* Inheritance: Classes Vehicle, Car, MotorCycle
+* Multiple Inheritance: Father Mother as parent classes and child as a child class 
+* Note: Parent classes marked as red in def (function)
 
 # Word occurences
 
