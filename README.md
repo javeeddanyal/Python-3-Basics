@@ -49,6 +49,8 @@ Python-3 Basic
 
 # Classes & OOP
 * Class: Calculator & Human Example
+## Inheritance & Multiple-Inheritance
+* 
 
 # Word occurences
 
