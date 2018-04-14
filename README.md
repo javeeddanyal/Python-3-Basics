@@ -77,4 +77,5 @@ Standard Deviation
 Variance
 
 # Exception Handling
+* raise exception
 ## iterators
