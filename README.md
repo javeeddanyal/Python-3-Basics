@@ -75,3 +75,5 @@ Mean
 Median
 Standard Deviation
 Variance
+
+# Exception Handling
