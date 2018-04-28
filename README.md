@@ -82,5 +82,6 @@ Variance
 ## address storing in a file
 ## generators
 ## caller from cross entity
+## numpy
 # matplotlip
 ## pandas
