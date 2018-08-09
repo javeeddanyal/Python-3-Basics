@@ -86,4 +86,4 @@ Variance
 # matplotlip
 ## pandas
 ## list
-## Functional Python
+## Functional Python lists
